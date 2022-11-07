@@ -1,4 +1,4 @@
-const fibonacci = require('../index');
+const sumOfString = require('../index');
 
-fibonacci(10);
+sumOfString('12345');
 
